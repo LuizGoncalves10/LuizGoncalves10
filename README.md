@@ -24,6 +24,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-siqueira-gonçalves)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_luizfelipegoncalves_)
 [![GitHub](https://img.shields.io/github/followers/LuizGoncalves10?label=follow&style=social)](https://github.com/LuizGoncalves10)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lfsg@cesar.school)](mailto:lfsg@cesar.school)
 
 ## My skills
 
@@ -40,6 +41,9 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS_Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 ## My stats
 
